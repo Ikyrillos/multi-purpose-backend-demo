@@ -20,8 +20,8 @@ DATABASE_LOCAL=localDBLink
 JWT_COOKIE_EXPIRES_IN=90
 
 #### Mail Service Configuration (using Mailtrap as an example)
-EMAIL_USERNAME=f2410cc829b479
-EMAIL_PASSWORD=332d8f25486eaf
+EMAIL_USERNAME=123
+EMAIL_PASSWORD=123
 EMAIL_HOST=sandbox.smtp.mailtrap.io
 EMAIL_PORT=587
 
