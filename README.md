@@ -102,8 +102,6 @@ This project is a versatile backend service designed for multiple projects. It i
 │   │   ├── posts
 │   │   ├── settings
 │   │   └── users
-│   ├── localhost-key.pem
-│   ├── localhost.pem
 │   └── server.ts
 ├── tsconfig.json
 └── xss-clean.d.ts
