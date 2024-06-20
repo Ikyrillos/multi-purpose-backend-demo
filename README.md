@@ -21,7 +21,10 @@ JWT_COOKIE_EXPIRES_IN=90
 
 #### Mail Service Configuration (using Mailtrap as an example)
 EMAIL_USERNAME=123
+
 EMAIL_PASSWORD=123
+
 EMAIL_HOST=sandbox.smtp.mailtrap.io
+
 EMAIL_PORT=587
 
