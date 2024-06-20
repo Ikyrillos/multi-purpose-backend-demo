@@ -1,0 +1,83 @@
+[
+    {
+      "_id": "5c8a1d5b0190b214360dc057",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "name": "Mountain Retreat",
+      "maxCapacity": 8,
+      "regularPrice": 200,
+      "discount": 10,
+      "description": "A beautiful retreat in the mountains with stunning views.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-001.jpg?alt=media&token=962c770f-ad01-44b0-a074-18ea14e682df"
+    },
+    {
+      "_id": "5c8a1dfa2f8fb814b56fa181",
+      "createdAt": "2023-02-15T00:00:00.000Z",
+      "name": "Lakeside Cabin",
+      "maxCapacity": 6,
+      "regularPrice": 150,
+      "discount": 15,
+      "description": "Cozy cabin by the lake, perfect for a relaxing getaway.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-002.jpg?alt=media&token=b9cee45e-491a-47bb-8d1f-89f5b4377f01"
+    },
+    {
+      "_id": "5c8a1e1a2f8fb814b56fa182",
+      "createdAt": "2023-03-10T00:00:00.000Z",
+      "name": "Forest Hideaway",
+      "maxCapacity": 4,
+      "regularPrice": 100,
+      "discount": 20,
+      "description": "A secluded cabin in the forest, ideal for nature lovers.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-003.jpg?alt=media&token=4407d074-d25d-4014-a533-df7468b3a05c"
+    },
+    {
+      "_id": "5c8a1ec62f8fb814b56fa183",
+      "createdAt": "2023-04-05T00:00:00.000Z",
+      "name": "Beach Bungalow",
+      "maxCapacity": 5,
+      "regularPrice": 180,
+      "discount": 5,
+      "description": "A charming bungalow on the beach, perfect for sun and sea.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-004.jpg?alt=media&token=8f8abca7-7ab7-4a9e-a4ee-cbbd55e2fdda"
+    },
+    {
+      "_id": "5c8a1f292f8fb814b56fa184",
+      "createdAt": "2023-05-20T00:00:00.000Z",
+      "name": "Countryside Cottage",
+      "maxCapacity": 7,
+      "regularPrice": 130,
+      "discount": 10,
+      "description": "A quaint cottage in the countryside, great for a family vacation.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-005.jpg?alt=media&token=d6a4748d-8a43-49fe-99e3-da9d3442e9f3"
+    },
+    {
+      "_id": "5c8a1f4e2f8fb814b56fa185",
+      "createdAt": "2023-06-25T00:00:00.000Z",
+      "name": "Riverfront Lodge",
+      "maxCapacity": 9,
+      "regularPrice": 220,
+      "discount": 12,
+      "description": "A spacious lodge on the riverfront, ideal for group retreats.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-006.jpg?alt=media&token=d519aa9a-db7f-4efb-bb63-25e335f6f300"
+    },
+    {
+      "_id": "5c8a201e2f8fb814b56fa186",
+      "createdAt": "2023-07-15T00:00:00.000Z",
+      "name": "Hilltop Haven",
+      "maxCapacity": 10,
+      "regularPrice": 250,
+      "discount": 8,
+      "description": "A luxurious cabin on a hilltop with breathtaking views.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-007.jpg?alt=media&token=2f617a1f-761b-4b0d-83b4-bb140df664c2"
+    },
+    {
+      "_id": "5c8a20d32f8fb814b56fa187",
+      "createdAt": "2023-08-05T00:00:00.000Z",
+      "name": "Desert Oasis",
+      "maxCapacity": 3,
+      "regularPrice": 90,
+      "discount": 25,
+      "description": "A unique cabin in the desert, perfect for a serene escape.",
+      "image": "https://firebasestorage.googleapis.com/v0/b/portfolio-4b69b.appspot.com/o/cabin-008.jpg?alt=media&token=4434cfee-ca34-4234-9620-72dc7e52c5f9"
+    }
+  ]
+  

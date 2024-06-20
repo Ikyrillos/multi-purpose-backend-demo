@@ -1,0 +1,37 @@
+[
+    {
+      "_id": "5c8a1d5b0190b214360dc060",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "startDate": "2023-06-01T00:00:00.000Z",
+      "endDate": "2023-06-07T00:00:00.000Z",
+      "numNights": 6,
+      "numGuests": 4,
+      "cabinPrice": 1200,
+      "extrasPrice": 300,
+      "totalPrice": 1500,
+      "status": "unconfirmed",
+      "hasBreakfast": true,
+      "isPaid": true,
+      "observations": "No special requests.",
+      "cabinId": "5c8a1d5b0190b214360dc057",
+      "guestId": "5c8a1d5b0190b214360dc058"
+    },
+    {
+      "_id": "5c8a1dfa2f8fb814b56fa194",
+      "createdAt": "2023-02-15T00:00:00.000Z",
+      "startDate": "2023-07-01T00:00:00.000Z",
+      "endDate": "2023-07-05T00:00:00.000Z",
+      "numNights": 4,
+      "numGuests": 2,
+      "cabinPrice": 800,
+      "extrasPrice": 200,
+      "totalPrice": 1000,
+      "status": "unconfirmed",
+      "hasBreakfast": false,
+      "isPaid": false,
+      "observations": "Late check-in requested.",
+      "cabinId": "5c8a1dfa2f8fb814b56fa181",
+      "guestId": "5c8a1dfa2f8fb814b56fa182"
+    }
+  ]
+  

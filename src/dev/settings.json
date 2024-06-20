@@ -1,0 +1,12 @@
+[
+    {
+      "_id": "5c8a1d5b0190b214360dc059",
+      "createdAt": "2023-01-01T00:00:00.000Z",
+      "minBookingLength": 3,
+      "maxBookingLength": 90,
+      "maxGuestsPerBooking": 8,
+      "breakfastPrice": 15
+    }
+   
+  ]
+  

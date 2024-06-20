@@ -1,0 +1,18 @@
+{
+    "files": {
+      "ignore": [
+        "node_modules",
+        "dist"
+      ]
+    },
+    "formatter": {
+      "enabled": true
+    },
+    "linter": {
+      "enabled": true,
+      "rules": {
+        "recommended": true
+      }
+    }
+  }
+  
